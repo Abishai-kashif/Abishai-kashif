@@ -141,7 +141,7 @@ Currently working at **Devotic Labs**.
 ## GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishai-kashif&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abishai-kashif&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
 </p>
 
 <p align="center">
