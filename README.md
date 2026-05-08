@@ -145,7 +145,7 @@ Currently working at **Devotic Labs**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishai-kashif&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abishai-kashif&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
